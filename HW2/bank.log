@@ -1,0 +1,14 @@
+2023-02-15 09:32:40|DEBUG|Created account: 1
+2023-02-15 09:32:40|DEBUG|Created transaction: 1, 50
+2023-02-15 09:33:52|DEBUG|Created transaction: 1, 2
+2023-02-15 09:34:02|DEBUG|Created transaction: 1, 0.0624
+2023-02-15 09:34:02|DEBUG|Triggered fees and interest
+2023-02-15 09:34:02|DEBUG|Created transaction: 1, -10
+2023-02-15 09:34:18|DEBUG|Created account: 2
+2023-02-15 09:34:18|DEBUG|Created transaction: 2, 10
+2023-02-15 09:34:24|DEBUG|Created transaction: 2, 1
+2023-02-15 09:34:44|DEBUG|Created transaction: 2, 1
+2023-02-15 09:34:49|DEBUG|Created transaction: 2, 2
+2023-02-15 09:34:56|DEBUG|Created transaction: 2, 2
+2023-02-15 09:35:05|DEBUG|Created transaction: 2, 0.464
+2023-02-15 09:35:05|DEBUG|Triggered fees and interest

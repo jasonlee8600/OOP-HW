@@ -1,0 +1,8 @@
+2023-02-28 10:34:33|DEBUG|Loaded from bank.db
+2023-02-28 10:34:48|DEBUG|Created transaction: 1, 1
+2023-02-28 10:34:48|DEBUG|Saved to bank.db
+2023-02-28 10:34:50|DEBUG|Created transaction: 1, 0.0492720000
+2023-02-28 10:34:50|DEBUG|Saved to bank.db
+2023-02-28 10:34:50|DEBUG|Created transaction: 1, -10
+2023-02-28 10:34:50|DEBUG|Saved to bank.db
+2023-02-28 10:34:50|DEBUG|Triggered fees and interest
